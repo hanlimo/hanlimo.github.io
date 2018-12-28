@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Cloud Native
+SEOTitle: Hanlimo的博客 | Hanlimo Blog
+#header-img:
+email: hanlimo@outlook.com.com
+description: "描述"
+keyword: "Cloud Native,Envoy,Istio,Prometheus,Cassandra"
+url: "https://keysaim.github.io"
+baseurl: ""
