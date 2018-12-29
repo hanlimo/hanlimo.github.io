@@ -110,3 +110,5 @@ friends: [
         href: "https://www.envoyproxy.io/try/"
     },
 ]
+
+theme: jekyll-theme-cayman
