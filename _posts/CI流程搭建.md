@@ -8,6 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 tags:
 	- Tech
 ---
+
 # CI流程搭建
 1. 加载必要的docker镜像：gogs、mysql、habor、jenkins；
 2. 启动mysql：
