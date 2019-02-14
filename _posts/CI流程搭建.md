@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      "CI "
+subtitle:   "Hello World, Hello Blog"
+date:       2019-02-14 12:00:00
+author:     "Hanlimo"
+header-img: "img/post-bg-2015.jpg"
+tags:
+	- Tech
+---
 # CI流程搭建
 1. 加载必要的docker镜像：gogs、mysql、habor、jenkins；
 2. 启动mysql：
